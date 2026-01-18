@@ -184,8 +184,8 @@
           "type": "testimonial",
           "settings": {
             "icon": "4-stars",
-            "testimonial": "<p>“Great service from Lisa & Peter London. The clothes fit perfectly and the personal touch really makes a difference.”</p>",
-            "image": "shopify://shop_images/1.png",
+            "testimonial": "<p>“Great service from Lina Dublin London. The clothes fit perfectly and the personal touch really makes a difference.”</p>",
+            "image": "shopify://shop_images/download_10.jpg",
             "author": "Claire W.",
             "author_info": "Manchester – 1 day ago"
           }
@@ -195,7 +195,7 @@
           "settings": {
             "icon": "4-stars",
             "testimonial": "<p>“I’m very impressed with the attention to detail. Everything came neatly wrapped, smelling fresh and ready to wear.”</p>",
-            "image": "shopify://shop_images/3.png",
+            "image": "shopify://shop_images/download_13.jpg",
             "author": "Sarah M.",
             "author_info": "Birmingham – 2 days ago"
           }
@@ -205,7 +205,7 @@
           "settings": {
             "icon": "5-stars",
             "testimonial": "<p>“Fantastic experience! The items are high quality and you can tell the store genuinely cares about its customers.”</p>",
-            "image": "shopify://shop_images/4.png",
+            "image": "shopify://shop_images/download_11.jpg",
             "author": "Olivia R.",
             "author_info": "Leeds – 3 days ago"
           }
@@ -214,8 +214,8 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>“My package arrived safely and beautifully presented. Lisa & Peter London make online shopping feel truly personal.”</p>",
-            "image": "shopify://shop_images/5.png",
+            "testimonial": "<p>“My package arrived safely and beautifully presented. Lina Dublin make online shopping feel truly personal.”</p>",
+            "image": "shopify://shop_images/download_12.jpg",
             "author": "Helen P.",
             "author_info": "Liverpool – 5 days ago"
           }
