@@ -27,7 +27,7 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/amin-naderloei-BqvCQjoxMHw-unsplash_2.jpg",
             "image_mobile": "shopify://shop_images/amin-naderloei-BqvCQjoxMHw-unsplash_2.jpg",
-            "parallax_direction": "left",
+            "parallax_direction": "top",
             "overlay_opacity": 10
           }
         }
