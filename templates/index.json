@@ -76,7 +76,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Very popular at the moment",
-        "home_featured_products": "blazers",
+        "home_featured_products": "winter-blouses",
         "per_row": 4,
         "rows": 1,
         "mobile_scrollable": true,
@@ -90,7 +90,7 @@
         "collection_3c6EHD": {
           "type": "collection",
           "settings": {
-            "collection": "dresses",
+            "collection": "sweaters",
             "title": "",
             "focal_point": "center center"
           }
@@ -98,7 +98,7 @@
         "collection_AeLxPN": {
           "type": "collection",
           "settings": {
-            "collection": "footwear",
+            "collection": "bags",
             "title": "",
             "focal_point": "center center"
           }
@@ -106,7 +106,7 @@
         "collection_XQTnUH": {
           "type": "collection",
           "settings": {
-            "collection": "jackets-coats",
+            "collection": "shoes",
             "title": "",
             "focal_point": "center center"
           }
@@ -114,7 +114,7 @@
         "collection_ATJQQ3": {
           "type": "collection",
           "settings": {
-            "collection": "jumpers-hoodies",
+            "collection": "winter-blouses",
             "title": "",
             "focal_point": "center center"
           }
@@ -138,7 +138,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "OUR FAVORITES",
-        "home_featured_products": "footwear",
+        "home_featured_products": "fall-jackets",
         "per_row": 4,
         "rows": 2,
         "mobile_scrollable": true,
