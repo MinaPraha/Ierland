@@ -578,6 +578,7 @@
         "image_raTfgL": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_18_jan_2026_14_51_05.png",
             "link": "",
             "width": "50%",
             "alignment": "center"
