@@ -48,8 +48,8 @@
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "OUR LAST ANNIVERSARY SALE UP TO 80% OFF",
-            "link_text": "",
+            "text": "OUR LAST ANNIVERSARY SALE",
+            "link_text": "UP TO 80% OFF",
             "link": ""
           }
         },
