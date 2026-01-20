@@ -11,13 +11,44 @@
   "type": "header",
   "name": "t:sections.header-group.name",
   "sections": {
+    "header": {
+      "type": "header",
+      "blocks": {
+        "header-0": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Black_and_Beige_Minimalist_Aesthetic_Modern_Simple_Typography_Agency_Logo_1080_x_1080_px_500_x_200_px_1_5363e438-9c21-42a0-8a55-e4a5ae1a5678.png",
+            "logo-inverted": "shopify://shop_images/Black_and_Beige_Minimalist_Aesthetic_Modern_Simple_Typography_Agency_Logo_1080_x_1080_px_500_x_200_px_2.png",
+            "desktop_logo_width": 190,
+            "mobile_logo_width": 160
+          }
+        }
+      },
+      "block_order": [
+        "header-0"
+      ],
+      "settings": {
+        "main_menu_link_list": "",
+        "hover_menu": true,
+        "mega_menu_images": true,
+        "main_menu_alignment": "center",
+        "header_style": "normal",
+        "sticky_index": false,
+        "sticky_collection": false,
+        "toolbar_menu": "",
+        "toolbar_social": true,
+        "show_locale_selector": true,
+        "show_currency_selector": false,
+        "show_currency_flags": false
+      }
+    },
     "announcement": {
       "type": "announcement",
       "blocks": {
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "PRE-AUTUMN SALE: UP TO 60% OFF",
+            "text": "OUR LAST ANNIVERSARY SALE UP TO 80% OFF",
             "link_text": "",
             "link": ""
           }
@@ -44,7 +75,6 @@
         "announcement_U3Tzjd",
         "announcement_rJUdAk"
       ],
-      "disabled": true,
       "custom_css": [
         ".announcement-bar {font-size: 12px !important; /* Pas aan naar gewenste grootte */}"
       ],
@@ -110,103 +140,11 @@
         "padding_vertical": 0.7,
         "padding_horizontal": 0
       }
-    },
-    "header": {
-      "type": "header",
-      "blocks": {
-        "header-0": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Black_and_Beige_Minimalist_Aesthetic_Modern_Simple_Typography_Agency_Logo_1080_x_1080_px_500_x_200_px_1_5363e438-9c21-42a0-8a55-e4a5ae1a5678.png",
-            "logo-inverted": "shopify://shop_images/Black_and_Beige_Minimalist_Aesthetic_Modern_Simple_Typography_Agency_Logo_1080_x_1080_px_500_x_200_px_2.png",
-            "desktop_logo_width": 190,
-            "mobile_logo_width": 160
-          }
-        }
-      },
-      "block_order": [
-        "header-0"
-      ],
-      "settings": {
-        "main_menu_link_list": "",
-        "hover_menu": true,
-        "mega_menu_images": true,
-        "main_menu_alignment": "center",
-        "header_style": "normal",
-        "sticky_index": false,
-        "sticky_collection": false,
-        "toolbar_menu": "",
-        "toolbar_social": true,
-        "show_locale_selector": true,
-        "show_currency_selector": false,
-        "show_currency_flags": false
-      }
-    },
-    "ss_announcement_bar_slider_a4K6Xp": {
-      "type": "ss-announcement-bar-slider",
-      "blocks": {
-        "slide_kBLp9e": {
-          "type": "slide",
-          "settings": {
-            "text": "<p><strong>OUR LAST ANNIVERSARY SALE </strong>UP TO 80% OFF<br/><br/></p>"
-          }
-        }
-      },
-      "block_order": [
-        "slide_kBLp9e"
-      ],
-      "name": "SS - Announcement Bar Slider",
-      "settings": {
-        "insert_css_class_target": ".header, .pageheader, .section-header, #announcement, .toolbar, .header__wrapper, .onboarding-header",
-        "slider_view": 1,
-        "slider_view_mobile": 1,
-        "slider_gap": 20,
-        "slider_gap_mobile": 0,
-        "autoplay": false,
-        "autoplay_sec": 5,
-        "slide_border_thickness": 1,
-        "text_custom": false,
-        "text_font": "josefin_sans_n4",
-        "text_size": 12,
-        "text_size_mobile": 12,
-        "text_height": 130,
-        "icon_size": 50,
-        "icon_size_mobile": 50,
-        "icon_margin_right": 10,
-        "arrow_size": 50,
-        "arrow_size_mobile": 36,
-        "arrow_icon_size": 16,
-        "arrow_icon_size_mobile": 14,
-        "arrow_border_thickness": 0,
-        "arrow_show_desktop": false,
-        "arrow_show_mobile": true,
-        "arrow_color": "#000000",
-        "arrow_hover_color": "#000000",
-        "arrow_bg_color": "#000000",
-        "arrow_bg_hover_color": "#000000",
-        "arrow_border_color": "#000000",
-        "arrow_border_hover_color": "#000000",
-        "slide_border_color": "#1A1B18",
-        "text_color": "#ffffff",
-        "background_color": "#000000",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 16,
-        "padding_bottom": 16,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0,
-        "full_width": true,
-        "content_width": 120,
-        "border_thickness": 0
-      }
     }
   },
   "order": [
-    "announcement",
-    "scrolling_announcement_bar_9pcDe6",
     "header",
-    "ss_announcement_bar_slider_a4K6Xp"
+    "announcement",
+    "scrolling_announcement_bar_9pcDe6"
   ]
 }
