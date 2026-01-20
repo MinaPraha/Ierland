@@ -55,6 +55,7 @@
         },
         "announcement_U3Tzjd": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "30-DAY MONEY-BACK GUARANTEE",
             "link_text": "",
@@ -63,6 +64,7 @@
         },
         "announcement_rJUdAk": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "ONLY TODAY FREE SHIPPING ON ALL ORDERS",
             "link_text": "",
