@@ -134,9 +134,10 @@
         "selluxe_followers_T9XW6r": {
           "type": "selluxe_followers",
           "settings": {
+            "profile_picture_1": "shopify://shop_images/7_1800x1800_9b2db48d-500c-41f0-a44d-15d4d3094e86.webp",
             "reviewers": "<strong>Rachel K.</strong>",
             "show_verified": true,
-            "add_text": "and <strong>3.1k+</strong> other women love <strong>Lisa & Peter London!</strong>",
+            "add_text": "and <strong>3.1k+</strong> other women love <strong>Lina Dublin!</strong>",
             "font_size": 14,
             "image_size": 40,
             "horizontal_alignment": "flex-start"
