@@ -39,12 +39,21 @@
             "text": "<p>✔ We have been providing the best customer service for decades<br/>✔ Over 15 years of experience in the fashion industry<br/>✔ Free delivery with An Post throughout Ireland</p>",
             "container_width": 30
           }
+        },
+        "menu_8LckVK": {
+          "type": "menu",
+          "settings": {
+            "show_footer_title": true,
+            "menu": "z-sady",
+            "container_width": 25
+          }
         }
       },
       "block_order": [
         "footer-1",
         "4e942b48-8a32-4d0c-bb8a-599029d7c631",
-        "16f46420-be73-4503-875a-4e9c1c8d139e"
+        "16f46420-be73-4503-875a-4e9c1c8d139e",
+        "menu_8LckVK"
       ],
       "settings": {
         "show_locale_selector": true,
