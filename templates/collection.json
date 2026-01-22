@@ -37,6 +37,7 @@
         },
         "text_kfQHiJ": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "enlarge_text": false,
             "text": "<p>Discounts apply automatically at checkout. Mix and match any items from our Anniversary Sale collections.</p>"
