@@ -59,18 +59,18 @@
           "type": "separator",
           "settings": {}
         },
-        "custom_XFhatC": {
-          "type": "custom",
-          "settings": {
-            "code": "<!-- Plaats deze linkjes eenmalig in de <head> van je theme -->\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=undo\" />\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=shoppingmode\" />\n\n<div class=\"cus-gua-div\" style=\"margin:20px 0; display:flex; flex-direction:column; gap:10px;\">\n\n  <!-- Free Shipping with An Post -->\n  <div class=\"gua-inner\" style=\"display:flex; align-items:center; gap:8px;\">\n    <div class=\"gua-img-div\">\n      <img\n        class=\"cus-gua-img\"\n        src=\"https://cdn.shopify.com/s/files/1/1007/4344/6853/files/an-post.svg?v=1768774701\"\n        alt=\"An Post\"\n        style=\"width:21px; height:21px;\"\n      >\n    </div>\n    <p class=\"cus-gua-p\" style=\"line-height:21px; color:#000000; margin:0; font-size:14px;\">\n      <b>Free Shipping</b> with An Post\n    </p>\n  </div>\n\n  <!-- 30-Day Money Back -->\n  <div class=\"gua-inner\" style=\"display:flex; align-items:center; gap:8px;\">\n    <div class=\"gua-img-div\">\n      <img class=\"cus-gua-img\" src=\"https://static.thenounproject.com/png/2111673-200.png\" style=\"width:21px; height:21px;\">\n    </div>\n    <p class=\"cus-gua-p\" style=\"line-height:21px; color:#000000; margin:0; font-size:14px;\">\n      30-Day <b>Money-Back Guarantee</b>\n    </p>\n  </div>\n\n  <!-- Discounts -->\n  <div class=\"gua-inner\" style=\"display:flex; align-items:center; gap:8px;\">\n    <span class=\"material-symbols-outlined\" style=\"font-size:21px; line-height:21px;\">shoppingmode</span>\n    <p class=\"cus-gua-p\" style=\"line-height:21px; color:#000000; margin:0; font-size:14px;\">\n      10% off&nbsp;for 2 items, 15% off for 3+ items\n    </p>\n  </div>\n\n</div>"
-          }
-        },
         "kiwi_size_chart_recommender_kiwi_sizing_Figa8x": {
           "type": "shopify://apps/kiwi-size-chart-recommender/blocks/kiwiSizing/b7369922-bf15-44ce-a121-a22a8fcbc4b0",
           "settings": {
             "fallbackToBlockPosition": false,
             "waitForElementSelector": "",
             "waitForElementDelay": 5
+          }
+        },
+        "custom_XFhatC": {
+          "type": "custom",
+          "settings": {
+            "code": "<!-- Plaats deze linkjes eenmalig in de <head> van je theme -->\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=undo\" />\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=shoppingmode\" />\n\n<div class=\"cus-gua-div\" style=\"margin:20px 0; display:flex; flex-direction:column; gap:10px;\">\n\n  <!-- Free Shipping with An Post -->\n  <div class=\"gua-inner\" style=\"display:flex; align-items:center; gap:8px;\">\n    <div class=\"gua-img-div\">\n      <img\n        class=\"cus-gua-img\"\n        src=\"https://cdn.shopify.com/s/files/1/1007/4344/6853/files/an-post.svg?v=1768774701\"\n        alt=\"An Post\"\n        style=\"width:21px; height:21px;\"\n      >\n    </div>\n    <p class=\"cus-gua-p\" style=\"line-height:21px; color:#000000; margin:0; font-size:14px;\">\n      <b>Free Shipping</b> with An Post\n    </p>\n  </div>\n\n  <!-- 30-Day Money Back -->\n  <div class=\"gua-inner\" style=\"display:flex; align-items:center; gap:8px;\">\n    <div class=\"gua-img-div\">\n      <img class=\"cus-gua-img\" src=\"https://static.thenounproject.com/png/2111673-200.png\" style=\"width:21px; height:21px;\">\n    </div>\n    <p class=\"cus-gua-p\" style=\"line-height:21px; color:#000000; margin:0; font-size:14px;\">\n      30-Day <b>Money-Back Guarantee</b>\n    </p>\n  </div>\n\n  <!-- Discounts -->\n  <div class=\"gua-inner\" style=\"display:flex; align-items:center; gap:8px;\">\n    <span class=\"material-symbols-outlined\" style=\"font-size:21px; line-height:21px;\">shoppingmode</span>\n    <p class=\"cus-gua-p\" style=\"line-height:21px; color:#000000; margin:0; font-size:14px;\">\n      10% off&nbsp;for 2 items, 15% off for 3+ items\n    </p>\n  </div>\n\n</div>"
           }
         },
         "custom_C8JCa3": {
@@ -164,8 +164,8 @@
         "selluxe_tp_stars_PKy6qi",
         "price",
         "separator",
-        "custom_XFhatC",
         "kiwi_size_chart_recommender_kiwi_sizing_Figa8x",
+        "custom_XFhatC",
         "custom_C8JCa3",
         "a87f6976-fdca-403c-9377-eb85cc84bccd",
         "buy_buttons",
