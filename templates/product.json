@@ -59,14 +59,6 @@
           "type": "separator",
           "settings": {}
         },
-        "kiwi_size_chart_recommender_kiwi_sizing_Figa8x": {
-          "type": "shopify://apps/kiwi-size-chart-recommender/blocks/kiwiSizing/b7369922-bf15-44ce-a121-a22a8fcbc4b0",
-          "settings": {
-            "fallbackToBlockPosition": false,
-            "waitForElementSelector": "",
-            "waitForElementDelay": 5
-          }
-        },
         "custom_XFhatC": {
           "type": "custom",
           "settings": {
@@ -86,6 +78,14 @@
             "picker_type": "button",
             "product_dynamic_variants_enable": true,
             "color_swatches": true
+          }
+        },
+        "kiwi_size_chart_recommender_kiwi_sizing_Figa8x": {
+          "type": "shopify://apps/kiwi-size-chart-recommender/blocks/kiwiSizing/b7369922-bf15-44ce-a121-a22a8fcbc4b0",
+          "settings": {
+            "fallbackToBlockPosition": false,
+            "waitForElementSelector": "",
+            "waitForElementDelay": 5
           }
         },
         "buy_buttons": {
@@ -164,10 +164,10 @@
         "selluxe_tp_stars_PKy6qi",
         "price",
         "separator",
-        "kiwi_size_chart_recommender_kiwi_sizing_Figa8x",
         "custom_XFhatC",
         "custom_C8JCa3",
         "a87f6976-fdca-403c-9377-eb85cc84bccd",
+        "kiwi_size_chart_recommender_kiwi_sizing_Figa8x",
         "buy_buttons",
         "custom_GLi9Ha",
         "ea05bd8c-ce3b-4efc-9331-8543471e68d9",
