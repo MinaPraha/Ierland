@@ -575,5 +575,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "/* Ruimte onder de slider dots / pagination */.flickity-page-dots,.swiper-pagination,.splide__pagination,.slider-buttons,.media-pagination,.product__media-pagination {margin-bottom: 20px !important; padding-bottom: 10px !important;}"
+    ]
   }
 }
