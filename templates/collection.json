@@ -28,13 +28,6 @@
             "text": "<h2>10 Years of Style and Comfort</h2><p>After 10 lovely years of dressing women across the country, this chapter is coming to a close</p><p>Your support has meant everything. From every sweet note to every single order, we’ve felt the love</p><p>Now, we’re saying thank you the best way we know how</p><ul><li><strong>Buy 2 & Save 15%</strong></li><li><strong>Buy 3 & Save 20%</strong></li><li><strong>Buy 4 & Save 25%</strong></li><li><strong>Buy 5 & Save 30%</strong></li></ul><p><em>Discounts apply automatically at checkout. Mix and match any items from our Anniversary Sale collections</em></p><p>With love<br/><br/>Lina🤎</p>"
           }
         },
-        "text_ANmYeB": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p> <strong>Extra Savings:</strong><br/></p><ul><li><strong>15% EXTRA OFF ON 2 ITEMS</strong></li><li><strong>20% EXTRA OFF ON 3 ITEMS</strong></li><li><strong>25% EXTRA OFF ON 4 ITEMS</strong></li><li><strong>30% EXTRA OFF ON 5+ ITEMS</strong></li></ul><p><em>*Discounts are automatically applied at checkout and can be combined with items from any collection.</em></p>"
-          }
-        },
         "text_kfQHiJ": {
           "type": "text",
           "disabled": true,
@@ -46,7 +39,6 @@
       },
       "block_order": [
         "text_NQGAxw",
-        "text_ANmYeB",
         "text_kfQHiJ"
       ],
       "custom_css": [],
